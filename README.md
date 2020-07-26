@@ -1,0 +1,2 @@
+# SUBJECT-WISE-STUDENT-ANALYSIS
+Ourprojectgivesthecompletedescriptionofthestudentanalysisin academics.Theprojectisadifferentfromnormalotherprojectsofattendance checking.Thisprojecttellshowstudentattendancedealswithhisacademic percentage.
